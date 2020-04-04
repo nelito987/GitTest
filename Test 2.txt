@@ -1,1 +1,3 @@
 change st_branch merge test
+git diff test
+test adding changes and change the branch
